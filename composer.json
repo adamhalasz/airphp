@@ -2,7 +2,7 @@
     "name": "airphp/airphp",
     "type": "library",
     "description": "A Reactive Component based PHP framework",
-    "keywords": ["component", "reactive", "routing", "framework", "routes", "components", "pagination", "data", "api", "client", "js", "template", "error-handling"],
+    "keywords": ["component", "reactive", "routing", "framework", "routes", "components", "pagination", "data", "api", "client", "js", "template", "error-handling", "rest"],
     "homepage": "http://airphp.com",
     "license": "MIT",
     "authors": [
